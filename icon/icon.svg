@@ -1,0 +1,18 @@
+<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="128" height="128" rx="16" fill="#15202b"/>
+  
+  <!-- Hashtag symbol (representing trends) -->
+  <g stroke="#1da1f2" stroke-width="8" stroke-linecap="round">
+    <!-- Vertical lines -->
+    <line x1="40" y1="25" x2="35" y2="103"/>
+    <line x1="70" y1="25" x2="65" y2="103"/>
+    <!-- Horizontal lines -->
+    <line x1="20" y1="45" x2="98" y2="40"/>
+    <line x1="22" y1="75" x2="100" y2="70"/>
+  </g>
+  
+  <!-- Red prohibition circle and line -->
+  <circle cx="64" cy="64" r="45" stroke="#ff4444" stroke-width="6" fill="none"/>
+  <line x1="30" y1="30" x2="98" y2="98" stroke="#ff4444" stroke-width="6" stroke-linecap="round"/>
+</svg>
