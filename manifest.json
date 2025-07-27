@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Hide X Trends",
     "version": "1.0",
-    "description": "Xのトレンドを非表示にする拡張機能",
+    "description": "A Chrome extension that hides trends and recommended users on X (formerly Twitter)",
     "permissions": [
         "activeTab"
     ],
