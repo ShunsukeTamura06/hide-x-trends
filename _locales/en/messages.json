@@ -1,0 +1,18 @@
+{
+  "extensionName": {
+    "message": "Hide X Trends",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "A Chrome extension that hides trends and recommended users on X (formerly Twitter) for a cleaner browsing experience",
+    "description": "Extension description"
+  },
+  "trends": {
+    "message": "Timeline: Trending now",
+    "description": "Trends section aria-label"
+  },
+  "recommendations": {
+    "message": "Who to follow",
+    "description": "Recommended users section aria-label"
+  }
+}

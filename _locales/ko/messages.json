@@ -1,0 +1,18 @@
+{
+  "extensionName": {
+    "message": "X 트렌드 숨기기",
+    "description": "확장 프로그램 이름"
+  },
+  "extensionDescription": {
+    "message": "X（구 Twitter）의 트렌드와 추천 사용자를 숨겨 더 깔끔한 브라우징 경험을 제공하는 Chrome 확장 프로그램",
+    "description": "확장 프로그램 설명"
+  },
+  "trends": {
+    "message": "타임라인: 실시간 트렌드",
+    "description": "트렌드 섹션 aria-label"
+  },
+  "recommendations": {
+    "message": "팔로우 추천",
+    "description": "추천 사용자 섹션 aria-label"
+  }
+}

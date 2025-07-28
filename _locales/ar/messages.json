@@ -1,0 +1,18 @@
+{
+  "extensionName": {
+    "message": "إخفاء اتجاهات X",
+    "description": "اسم الإضافة"
+  },
+  "extensionDescription": {
+    "message": "إضافة Chrome تخفي الاتجاهات والمستخدمين المقترحين على X (تويتر سابقاً) لتجربة تصفح أنظف",
+    "description": "وصف الإضافة"
+  },
+  "trends": {
+    "message": "الخطّ الزمنيّ: المتداوَل الآن",
+    "description": "aria-label لقسم الاتجاهات"
+  },
+  "recommendations": {
+    "message": "اقتراحات المتابعة",
+    "description": "aria-label لقسم المستخدمين المقترحين"
+  }
+}

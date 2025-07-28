@@ -1,0 +1,18 @@
+{
+  "extensionName": {
+    "message": "Ocultar tendencias de X",
+    "description": "Nombre de la extensión"
+  },
+  "extensionDescription": {
+    "message": "Una extensión de Chrome que oculta las tendencias y usuarios recomendados en X (anteriormente Twitter) para una experiencia de navegación más limpia",
+    "description": "Descripción de la extensión"
+  },
+  "trends": {
+    "message": "Cronología: Tendencias del momento",
+    "description": "aria-label de la sección de tendencias"
+  },
+  "recommendations": {
+    "message": "A quién seguir",
+    "description": "aria-label de la sección de usuarios recomendados"
+  }
+}
