@@ -6,13 +6,5 @@
   "extensionDescription": {
     "message": "X（旧Twitter）のトレンドと推奨ユーザーを非表示にしてクリーンな閲覧体験を提供するChrome拡張機能",
     "description": "拡張機能の説明"
-  },
-  "trends": {
-    "message": "タイムライン: 速報",
-    "description": "トレンドセクションのaria-label"
-  },
-  "recommendations": {
-    "message": "おすすめユーザー",
-    "description": "推奨ユーザーセクションのaria-label"
   }
 }

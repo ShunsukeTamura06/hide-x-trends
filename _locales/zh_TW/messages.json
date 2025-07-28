@@ -6,13 +6,5 @@
   "extensionDescription": {
     "message": "隱藏 X（前Twitter）趨勢和推薦用戶的Chrome擴充功能，提供更清潔的瀏覽體驗",
     "description": "擴充功能描述"
-  },
-  "trends": {
-    "message": "時間軸：流行趨勢",
-    "description": "趨勢部分的aria-label"
-  },
-  "recommendations": {
-    "message": "跟隨誰",
-    "description": "推薦用戶部分的aria-label"
   }
 }
